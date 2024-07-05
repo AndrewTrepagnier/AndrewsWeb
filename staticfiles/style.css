@@ -1,0 +1,135 @@
+
+<style type="text/css">
+
+body {
+	background-color:#f9f9f9;
+	margin:0;
+
+}
+
+#home {
+margin:0 auto;
+width:70%;
+
+}
+
+ul {
+	font-family: "FF tisa pro",sans-serif;
+	float:left;
+	font-style: normal;
+	font-weight: 400;
+	width: 200px;
+	text-decoration:none;
+}
+
+ul a {
+	text-decoration:none;
+}
+
+p {line-height:24px;}
+p a, small a, span.show {text-decoration:none; border-bottom:1px solid #76a7f7;}
+p a:hover, small a:hover, span.show:hover {border-bottom:1px solid #1b6cf2; cursor:pointer}
+a, span.show {color:#1b6cf2;}
+.clear {clear:both;}
+img {border:none;}
+img.fade {display:none;}
+
+h1 {
+	position:relative;
+	font-family: "aktiv-grotesk",sans-serif;
+	font-style: normal;
+	font-weight: 800;
+	font-size:48px;
+	text-transform:uppercase;
+	text-align:center;
+	padding-top:30px;
+	color: #222222;
+
+
+
+}
+h2 {
+	position:relative;
+	font-family:"ff-tisa-web-pro", Futura, Verdana, serif;
+	top:10px;
+	font-weight: 400;
+	font-size:32px;
+	text-align:center;
+	border-top:1px solid #CCC;
+	border-bottom:1px solid #CCC;
+	padding:22px 0;
+
+}
+h2 a {
+	text-decoration:none;
+	color:#888;
+}
+h3 {
+	font-family:BrandonGrotesque-Bold, Futura, Verdana, serif;
+	font-size:12px;
+	text-transform:uppercase;
+	margin:0;
+	padding:0;
+}
+h4 {
+	font-family:"ff-tisa-web-pro", Futura, Verdana, serif;
+	font-size:16px;
+	font-weight: 400;
+	margin:0 0 0 0;
+	padding:0;
+	line-height:15px;
+	color: #000;
+}
+h4 a {
+	text-decoration:none;
+	color:#888;
+h5 {
+	font-family:BrandonGrotesque-Bold, Futura, Verdana, serif;
+	font-size:48px;
+	text-transform:uppercase;
+	margin:0;
+	margin-bottom:-8px;
+	padding:0;
+}
+h6 {
+	font-family:BrandonGrotesque-Light, Futura, Verdana, serif;
+	font-size:26px;
+	text-transform:uppercase;
+	margin:0;
+	padding:0;
+	color:#999;
+
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}
+.style12 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; color: #666666; font-weight: bold; }
+
+/*  MOBILE OPTIMIZED VIEW  */
+
+
+@media only screen and (max-width : 520px) {
+
+h1 {
+		padding-bottom:100px;
+	}
+
+h2 {
+
+	border-top: none;
+	border-bottom: none;
+
+	}
+
+}
+
+
+</style>
